@@ -2,6 +2,9 @@
 
 A simplified FULL-STACK Splitwise clone built with **ReactJS**, **Next.js**, and **Tailwind CSS** to easily split expenses and manage group payments.
 
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/f0f204e9-bb54-46a3-9921-d1a9c37ac79b" />
+
+
 ---
 
 ## Features
